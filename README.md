@@ -52,14 +52,6 @@ This project helps in understanding:
 * Front-end design principles
 * Interactive web effects
 
-## 📸 Preview
-
-Add screenshots or GIFs of your animated flower here:
-
-```markdown
-![Animated Flower Preview](preview.gif)
-```
-
 ## 🤝 Contributing
 
 Contributions, suggestions, and improvements are welcome.
